@@ -1,0 +1,76 @@
+[0xf8e3a]
+last_change = 2026-09-10T18:36:08.906379Z
+addr = 0xf8e3a
+func_addr = 0xf8e00
+comment = "0x300 = 768LL = ISceneSystem_GetWorldsInfo"
+decompiled = true
+
+[0xf8ea0]
+last_change = 2026-09-10T18:36:08.906401Z
+addr = 0xf8ea0
+func_addr = 0xf8e00
+comment = "0x38 = 56LL = ISceneWorld_GetObjectsInfo"
+decompiled = true
+
+[0xf8ec2]
+last_change = 2026-09-10T18:36:08.906407Z
+addr = 0xf8ec2
+func_addr = 0xf8e00
+comment = "0x50 = 80LL = ISceneWorld_GetWorldName"
+decompiled = true
+
+[0xf8f4d]
+last_change = 2026-09-10T18:36:08.906411Z
+addr = 0xf8f4d
+func_addr = 0xf8e00
+comment = "0x18 = 24LL = CSceneObject::pDesc"
+decompiled = true
+
+[0xf8f51]
+last_change = 2026-09-10T18:36:08.906414Z
+addr = 0xf8f51
+func_addr = 0xf8e00
+comment = "0x80 = 128LL = CSceneObject::nFlags"
+decompiled = true
+
+[0xf8f58]
+last_change = 2026-09-10T18:36:08.906417Z
+addr = 0xf8f58
+func_addr = 0xf8e00
+comment = "0xF0 = 240LL = ISceneSystem_GetObjectBounds"
+decompiled = true
+
+[0xf8f69]
+last_change = 2026-09-10T18:36:08.906420Z
+addr = 0xf8f69
+func_addr = 0xf8e00
+comment = "0x9B = 155LL = CSceneObject::nClassIndex"
+decompiled = false
+
+[0xf8f76]
+last_change = 2026-09-10T18:36:08.906422Z
+addr = 0xf8f76
+func_addr = 0xf8e00
+comment = "0x3C = 60LL = CSceneObject::fOriginX"
+decompiled = true
+
+[0xf8f7c]
+last_change = 2026-09-10T18:36:08.906425Z
+addr = 0xf8f7c
+func_addr = 0xf8e00
+comment = "0x4C = 76LL = CSceneObject::fOriginY"
+decompiled = true
+
+[0xf8f84]
+last_change = 2026-09-10T18:36:08.906427Z
+addr = 0xf8f84
+func_addr = 0xf8e00
+comment = "0x5C = 92LL = CSceneObject::fOriginZ"
+decompiled = true
+
+[0xf8f89]
+last_change = 2026-09-10T18:36:08.906430Z
+addr = 0xf8f89
+func_addr = 0xf8e00
+comment = "0x318 = 792LL = ISceneSystem_GetObjectClassName\n0x9B = 155LL = CSceneObject::nClassIndex"
+decompiled = true
